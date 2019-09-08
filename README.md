@@ -14,7 +14,7 @@ To appear in NeurIPS 2019.
 ```
 
 <div width="20%", height="20%", align="center">
-   <img src="https://github.com/stepperL/glyce_pngs/blob/master/glyce1.0_pngs/glyce1_overview.png"><br><br>
+   <img src="https://github.com/zkcys001/distracting_feature/blob/master/git_images/LEN.png"><br><br>
 </div>
 
 
