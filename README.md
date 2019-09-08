@@ -7,7 +7,7 @@ To appear in NeurIPS 2019.
 
 [Abstract Reasoning with Distracting Features]()
 
-(kecheng zheng, wei wei zheng-jun zha, 2019)
+(kecheng zheng, wei wei and zheng-jun zha, 2019)
 
 ```
 
