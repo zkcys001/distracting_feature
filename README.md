@@ -7,10 +7,10 @@ To appear in NeurIPS 2019.
 
 [Abstract Reasoning with Distracting Features]()
 
-(kecheng zheng, wei wei and zheng-jun zha, 2019)
+(Kecheng Zheng, Wei Wei and Zheng-jun Zha, 2019)
 
 ```
-
+The code is coming soon
 ```
 
 <div width="20%", height="20%", align="center">
