@@ -22,18 +22,9 @@ To appear in NeurIPS 2019.
 
 ## Implementation 
 
-
 ## Download Task Data 
 
-
-
-## Welcome Contributions to Glyce Open Source Project 
-
-
 ## Acknowledgement      
-
-
-
 
 ## Contact 
 
