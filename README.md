@@ -1,6 +1,6 @@
 # Abstract Reasoning with Distracting Features
 
-coming soon
+coming soon ...
 ## Citation 
 
 To appear in NeurIPS 2019. 
@@ -10,7 +10,7 @@ To appear in NeurIPS 2019.
 (Kecheng Zheng, Wei Wei and Zheng-jun Zha, 2019)
 
 ```
-The code is coming soon
+coming soon ...
 ```
 
 <div width="20%", height="20%", align="center">
