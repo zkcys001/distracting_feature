@@ -1,7 +1,5 @@
 # Abstract Reasoning with Distracting Features
 
-## Citation 
-
 To appear in NeurIPS 2019. 
 
 [Abstract Reasoning with Distracting Features](http://arxiv.org/abs/1912.00569)
