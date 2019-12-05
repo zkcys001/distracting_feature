@@ -1,6 +1,6 @@
 # PyTorch-ActorCriticRL
 
-PyTorch implementation of continuous action actor-critic algorithm. The algorithm uses DeepMind's Deep Deterministic Policy Gradient [DDPG](https://arxiv.org/abs/1509.02971) method for updating the actor and critic networks along with [Ornstein鈥揢hlenbeck](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process) process for exploring in continuous action space while using a Deterministic policy.
+PyTorch implementation of continuous action actor-critic algorithm. The algorithm uses DeepMind's Deep Deterministic Policy Gradient [DDPG](https://arxiv.org/abs/1509.02971) method for updating the actor and critic networks along with [OS process](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process) process for exploring in continuous action space while using a Deterministic policy.
 
 Thanks to the [PyTorch-ActorCriticRL implementation](https://github.com/vy007vikas/PyTorch-ActorCriticRL)
 ## References
