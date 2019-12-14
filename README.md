@@ -39,7 +39,7 @@ python main.py --net <model name> --datapath <path to the dataset> --rl False --
 
 #TODO
 1. The code for PGM dataset
-2. The long-term features of state in teacher model 
+2. The long-term features (state) in teacher model 
 
 # Citation
 
