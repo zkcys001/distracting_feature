@@ -37,6 +37,9 @@ For details, please check our [paper](http://arxiv.org/abs/1912.00569).
 python main.py --net <model name> --datapath <path to the dataset> --rl False --typeloss False
 ```
 
+#TODO
+1. The code for PGM dataset
+2. The long-term features of state in teacher model 
 
 # Citation
 
