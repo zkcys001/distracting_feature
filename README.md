@@ -50,7 +50,7 @@ If you find the paper and/or the code helpful, please cite us.
     title={Abstract Reasoning with Distracting Features},
     author={Kecheng Zheng and Zheng-jun Zha and Wei Wei},
     booktitle={Advances in Neural Information Processing Systems},
-    year={2019}}
+    year={2019}
 }
 ```
 
